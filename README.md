@@ -1,2 +1,2 @@
 # simple_Calculator
-Simple calculator with basic operations
+Simple calculator with basic operations using QT creator
